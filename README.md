@@ -9,7 +9,7 @@
 
 _Here's my latest profile that I've written up:_
 
-Since you're here, you probably want to know a little bit about me. I'm a Full Stack Engineer currently working at 1Password as a Jr. Web Dev. I'm all about making sure I help my team out however I can, but in my time away from work, I'm your quintessential nerd.
+Since you're here, you probably want to know a little bit about me. I'm a Full Stack Engineer currently working at 1Password as an intermediate Web Dev. I'm all about making sure I help my team out however I can, but in my time away from work, I'm your quintessential nerd.
 
 Video games, creating video games, programming, anime, plain old tv (With a surname like mine, you'd better believe I grew up on X-Files). I'm majorly into all of it. I'm even a bit of a music geek. Aside from that, I'm big on crafts and like to sew and draw when I'm not in front of a screen
 
