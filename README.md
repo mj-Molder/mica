@@ -1,4 +1,4 @@
-# Mica Molder
+# MJ Molder
 
 ## Welcome!
 ### You've made it to my GitHub!
