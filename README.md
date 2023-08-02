@@ -1,4 +1,4 @@
-# MJ Molder
+# MJ M.
 
 ## Welcome!
 ### You've made it to my GitHub!
