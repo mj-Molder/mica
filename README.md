@@ -15,4 +15,4 @@ Video games, creating video games, programming, anime, plain old tv (With a surn
 
 ---
 
-- [LinkedIn](https://www.linkedin.com/in/mmolder/)
+[LinkedIn](https://www.linkedin.com/in/mmolder/)
