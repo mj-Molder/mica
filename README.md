@@ -15,5 +15,4 @@ Video games, creating video games, programming, anime, plain old tv (With a surn
 
 ---
 
-### Nav
 - [LinkedIn](https://www.linkedin.com/in/mmolder/)
